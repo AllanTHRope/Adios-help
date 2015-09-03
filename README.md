@@ -22,7 +22,7 @@ If you're able to translate Adios in another language: please do it!
 ### Here is the procedure to translate Adios:
 - Clone the repo.
 - Copy/paste english.html and create [language].html
-- Translate the text in the language.
+- Translate the text, not the HTML divs around it.
 - Commit.
 
 That's it! Thanks to you users, young and old, will be able to start blocking ads this September.
