@@ -15,7 +15,7 @@ This help section needs to be translated so that everybody can start blocking ad
 ### What are the languages needed?
 Let's start with two basics:
 - German
-- Spanish
+- Spanish (in progress)
 
 If you're able to translate Adios in another language: please do it! 
 
