@@ -1,9 +1,9 @@
 # Adios Help
 ### Help Adios' users by translating the help section
 
-[Adios, the first free ad blocker for iOS](http://armand.gr/adios.html), will be available on the App Store very soon. It means one thing: a lot of people like my mom and maybe yours will start using Adios. This is a great opportunity to change the Web but these users have two problems:
+[Adios, the first free ad blocker for iOS](http://armand.gr/adios.html), will be available on the App Store very soon. It means one thing: a lot of people will start using Adios. This is a great opportunity to change the Web but these users have two problems:
 - They don't necessarily speak English.
-- They have difficulties to use something they don't know.
+- They have difficulties using something they don't know.
 
 To help them, Adios has been developed to be as straightforward as possible. There's even a help section:
 <p align="center">
