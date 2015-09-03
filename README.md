@@ -5,20 +5,20 @@
 - They don't necessarily speak English.
 - They have difficulties using something they don't know.
 
-To help them, Adios has been developed to be as straightforward as possible. There's even a help section:
+To help them, Adios has been designed to be as straightforward as possible. There's even a help section:
 <p align="center">
 <img src="http://i.imgur.com/6QLlrIg.png">
 </p>
 
 This help section needs to be translated so that everybody can start blocking ads and I'm counting on you to help me.
 
-### What are the languages needed?
+### What languages are needed?
 - German
 - Spanish (in progress)
 - Dutch (in progress)
 - Russian (in progress)
 
-If you're able to translate Adios in another language: please do it! 
+If you're able to translate Adios in another language please do it! 
 
 ### Here is the procedure to translate Adios:
 - Clone the repo.
